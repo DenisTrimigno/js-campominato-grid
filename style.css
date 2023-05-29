@@ -1,0 +1,27 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: rgb(2, 2, 133);
+}
+
+header{
+    background-color: white;
+}
+
+
+.btn-play {
+    border: none;
+    background-color: blue;
+    border-radius: 0px;
+    color: white;
+}
+
+.btn-play:hover{
+    background-color: rgb(1, 1, 139);
+}
