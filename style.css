@@ -12,6 +12,7 @@ body{
 
 header{
     background-color: white;
+    padding: 15px 0px;
 }
 
 
@@ -24,4 +25,27 @@ header{
 
 .btn-play:hover{
     background-color: rgb(1, 1, 139);
+    color: white;
+}
+
+main {
+    max-width: 1140px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+}
+
+#grid{
+    width: 1000px;
+    height: 1000px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: yellow;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    border: 1px solid ghostwhite;
 }

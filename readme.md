@@ -9,3 +9,9 @@ Ogni cella ha un numero progressivo, da 1 a 100. Ci saranno quindi 10 caselle pe
 3- aggiungere l'eventlistener al pulsante
 4- creare un div nel DOM che conterrà le caselle della griglia
 5- appendere le caselle al div
+
+6- Scrivere nella casella il numero corrispondente
+6.1 - All'interno del for, utilizzare la proprietà innerText della casella creata per assegnere valore numerico 
+7- aggiungo l'event listener alla casella
+8- Al click della casella si deve colorare
+9- al click della casella mostro in console il numero della casella cliccata
